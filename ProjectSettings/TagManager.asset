@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Chest
+  - Diamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Runner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 312762893
+    locked: 0
+  - name: Hill_last
+    uniqueID: 771229325
+    locked: 0
+  - name: tree & water
+    uniqueID: 380026341
+    locked: 0
+  - name: Ground
+    uniqueID: 1935286293
+    locked: 0
+  - name: small grass & roks
+    uniqueID: 3342165815
+    locked: 0
+  - name: Runner
+    uniqueID: 3755743557
+    locked: 0
